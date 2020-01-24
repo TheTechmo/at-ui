@@ -2,7 +2,7 @@
   "name": "at-ui",
   "version": "1.3.3",
   "description": "A UI Component Library with Vue.js",
-  "homepage": "https://at.aotu.io",
+  "homepage": "https://github.com/TheTechmo/at-ui",
   "main": "dist/at.js",
   "engines": {
     "node": ">=6"
@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:at-ui/at-ui.git"
+    "url": "git@github.com:TheTechmo/at-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/at-ui/at-ui/issues"
+    "url": "https://github.com/TheTechmo/at-ui/issues"
   },
   "keywords": [
     "at",
